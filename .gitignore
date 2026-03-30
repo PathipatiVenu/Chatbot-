@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+.venv/
+.env
+*.pyc
+
+# Node / React
+node_modules/
+dist/
+.eslintcache
+
+# Project Specific
+ai-engin/data/*.csv
